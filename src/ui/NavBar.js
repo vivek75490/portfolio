@@ -57,7 +57,7 @@ export const NavBar = () => {
             <a href="#contact">Contact</a>
           </li>
           <li>
-            <a className="w-fit mx-2 hover:bg-pink-700 rounded-3xl px-4 py-2 bg-gradient-to-r from bg-purple-600 to to-white" href="https://drive.google.com/file/d/1Ek2NmJ31-ug1md6a92Fr-PfxnnnRlf1y/view?usp=sharing">Resume</a>
+            <a className="w-fit mx-2 hover:bg-pink-700 rounded-3xl px-4 py-2 bg-gradient-to-r from bg-purple-600 to to-white" href="https://drive.google.com/file/d/1ABRMJlFf11b5kTS2LrJIrtvzoV3hEftP/view?usp=sharing">Resume</a>
           </li>
         </ul>
       </div>
